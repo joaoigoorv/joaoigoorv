@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=Hello+World!+Eu+sou+o+Jo%C3%A3o+Igor+%3A)" alt="Typing SVG">
   </a>
 </div>
+
 ###
 
 <br clear="both">
